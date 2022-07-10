@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Jorge Trad <jetradl@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
